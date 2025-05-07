@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fahad Rahman</h1>
 <h3 align="center">A passionate python developer from PUCIT</h3>
-
+<img align = "right" alt = "coding" width = "400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTiDlhvLyHw5YWRgCBHe16DFg6sLGlelk0zA&s">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fahad-rahman-2195682b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahad-rahman-2195682b1/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fahad_119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fahad_119" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fahad_119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahad_119" height="30" width="40" /></a>
 </p>
