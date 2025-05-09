@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Rahman</h1>
-<h3 align="center">A passionate python developer from PUCIT</h3>
+<h3 align="center">A passionate python developer from Pakistan 🇵🇰</h3>
 <img align = "right" alt = "coding" width = "350" src ="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
