@@ -17,7 +17,7 @@
 - 💻 Passionate Python developer
 - ⚔️ Competitive Programmer
 - 🎓 Bachelor's in Data Science from Punjab University College of Information Technology (PUCIT)
-- 🛡️ Solved 450+ Problems on Codeforces and 180+ on Leetcode
+- 🛡️ Solved 450+ Problems on Codeforces and 200+ on Leetcode
 - 🎮 Gaming
   
 <br>
